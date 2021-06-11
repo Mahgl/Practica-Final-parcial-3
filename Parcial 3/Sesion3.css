@@ -1,0 +1,147 @@
+.imagen{
+    background-color: #D40000;
+}
+
+.link1{
+    color: white;  
+    font-family: Helvetica;
+    margin-right: 75px;
+    margin-left: 75;
+    background-color: #D40000;
+    padding: 10px 60px;
+    border-radius: 25%;
+
+}
+
+.link2{
+    color: white;  
+    font-family: Helvetica;
+    margin-left: 190px ;
+    margin-right: 60px;
+    background-color: #D40000;
+    padding: 10px 25px;
+    border-radius: 25%;
+}
+
+.link3{
+    color: white;  
+    font-family: Helvetica;
+    
+    background-color: #D40000;
+    padding: 10px 25px;
+    border-radius: 25%;
+    margin-left: 125px;
+}
+
+.sesion{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: verdana;
+
+    
+}
+
+.inicio{
+    margin-left: 400px;
+    font-family: verdana;
+    
+}
+
+.inicio2{
+    font-family: verdana;
+    margin-left: 378px;
+
+}
+
+.sesion1{
+    font-family: verdana;
+
+}
+
+.btni{
+    margin-left: 700px;
+    display: inline;
+    margin-left: 100px;
+}
+
+.registro{
+    margin-right: 700px;
+    margin-left: 200px;
+    display: inline;
+}
+
+.display{
+    display: inline;
+}
+
+aside{
+    min-height: 200px;
+    padding: 10px;
+    width: calc(99% - 10px);
+    background: #b4b4b4;
+
+}
+
+.lll{
+    background: burlywood;
+    padding: 10px;
+margin-top: 50px;
+}
+
+.iii{
+    background: rgb(219, 173, 112);
+    padding: 10px;
+}
+
+
+
+.sepa{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+}
+
+.sepa1{
+    margin-left: 220px;
+    margin-right: 350px;
+    display: inline;
+}
+.sepa2{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+}
+.sepa3{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+}
+.sepa4{
+    margin-left: 330px;
+    margin-right: 320px;
+    display: inline;
+}
+.sepa5{
+    margin-left: 350px;
+    margin-right: 450px;
+    display: inline;
+}
+.sepa6{
+    margin-left: 280px;
+    margin-right: 470px;
+    display: inline;
+}
+
+.si{
+    display: inline;
+}
+
+.tal{
+    margin-left: 300px;
+    margin-right: 300px ;
+    color: chocolate;
+}
+
+.no{
+    color: chocolate;
+}

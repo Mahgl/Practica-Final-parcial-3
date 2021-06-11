@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link href="Sesion3.css" rel="stylesheet" type="text/css">
+    <title>Registro Soriana</title>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <center class="imagen"><br><br><img class="imagen" src="soriana_hiper_blanco.png" width="400"></center>
+
+    <center><A HREF = "1 Index.html"class="link1">Inicio</A> <A HREF = "4 trabajo.html" class="link2">¿Buscas Trabajo?</A> <A HREF = "2 Encuentranos.html" class="link3">¿Donde nos encontramos?</A></center>
+
+    <br><br><center><b class="sesion">Registrarse</b> <b class="sesion">Iniciar sesion</b></center><br><br>
+    <aside>
+        <b class="sesion1">Crea un nombre de usuario: </b><input type="text" name="nombre">   <b class="inicio">Ingresa tu nombre de usuario: </b><input type="text">   <br><br>
+        <b class="sesion1"> Ingresa un correo electronico: </b><input type="text" name="correo"> <b class="inicio2">Ingresa tu contraseña: </b><input type="text">    <br><br>          
+        <b class="sesion1">Ingresa una contraseña: </b><input type="text" name="contraseña"><br><br>
+        <b class="sesion1">Confirma la contraseña: </b><input type="text">
+
+    
+
+    <center class="display"><br><br><button class="registro" onclick="registrarse()"> Confirmar</button> <button class="btni" onclick="inicio()"> Confirmar </button></center>
+
+</aside>
+
+    <script language="JavaScript">
+        function registrarse() {
+        var pregunta = confirm("Te haz registrado correctamente, ¿Deseas ir a la pagina principal?")
+        if (pregunta){
+            alert("Te envío allí rápidamente")
+             window.location = "1 index.html";
+        }
+        else{
+            alert("Registrate sesion de nuevo")
+        }
+    }
+</script>
+<script language="JavaScript">
+    function inicio() {
+    var pregunta = confirm("haz iniciado sesion correctamente, ¿Deseas ir a la pagina principal?")
+    if (pregunta){
+        alert("Te envío allí rápidamente")
+         window.location = "1 index.html";
+    }
+    else{
+        alert("Inicia sesión de nuevo")
+    }
+}
+</script>
+
+<center>
+<a class="no" href="https://www.soriana.com/soriana/es/privacy-notice">Aviso de privacidad</a>
+<a class="tal" href="https://www.soriana.com/soriana/es/terms-of-use">Terminos y condiciones de uso</a>
+<a class="no" href="https://chatmercanciasgenerales.s1gateway.com">¿Necesitas ayuda?</a>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+.imagen{
+    background-color: #D40000;
+}
+
+.links{
+  color: white;  
+  font-family: Helvetica;
+  margin: 125px;
+  background-color: #D40000;
+  padding: 10px 25px;
+  border-radius: 25%;
+}
+.max{
+    background-color: grey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.frijoles{
+    background-color: grey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+.perro{
+    background-color: grey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.f{
+    padding-left: 235px;
+    padding-right: 220px;
+}
+
+.m{
+padding-right: 80px;
+padding-left: 10px;
+}
+
+.c{
+padding-left: 60px;
+}
+
+b{
+    color: black;
+    font-family: Helvetica;
+
+}
+
+.link1{
+    color: white;  
+    font-family: Helvetica;
+    margin-right: 75px;
+    margin-left: 75;
+    background-color: #D40000;
+    padding: 10px 25px;
+    border-radius: 25%;
+
+}
+
+.link2{
+    color: white;  
+    font-family: Helvetica;
+    margin-left: 125px ;
+    margin-right: 125px;
+    background-color: #D40000;
+    padding: 10px 25px;
+    border-radius: 25%;
+}
+
+.link3{
+    color: white;  
+    font-family: Helvetica;
+    
+    background-color: #D40000;
+    padding: 10px 25px;
+    border-radius: 25%;
+    margin-left: 125px;
+}
+
+.publicidad{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.ser{
+    margin-left: 300px;
+    margin-right: 300px;
+    
+    border: 3px solid red;
+
+    font-size: 20px;
+    
+}
+
+.lll{
+    background: burlywood;
+    padding: 10px;
+
+}
+
+.iii{
+    background: rgb(219, 173, 112);
+    padding: 10px;
+}
+
+
+
+.sepa{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+}
+
+.sepa1{
+    margin-left: 220px;
+    margin-right: 350px;
+    display: inline;
+}
+.sepa2{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+}
+.sepa3{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline;
+}
+.sepa4{
+    margin-left: 330px;
+    margin-right: 320px;
+    display: inline;
+}
+.sepa5{
+    margin-left: 350px;
+    margin-right: 450px;
+    display: inline;
+}
+.sepa6{
+    margin-left: 280px;
+    margin-right: 470px;
+    display: inline;
+}
+
+.si{
+    display: inline;
+}
